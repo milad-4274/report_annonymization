@@ -1,0 +1,15 @@
+**INDICATION:** 75-year-old female with known Klatskin 3b intra-hepatic cholangiocarcinoma. Presents with acute onset abdominal pain following recent trans-gastric left biliary drainage. Evaluate for pneumoperitoneum or iatrogenic injury.
+
+**TECHNIQUE:** Multidetector CT of the abdomen and pelvis was performed. Images were acquired in the axial plane following the administration of intravenous contrast. Coronal and sagittal reformations were reviewed.
+
+**FINDINGS:**
+The liver demonstrates an irregular, infiltrating mass at the hepatic hilum consistent with the known Klatskin tumor, causing significant intrahepatic biliary ductal dilatation. There is evidence of a recently placed trans-gastric biliary drainage catheter extending from the stomach into the left intrahepatic biliary system. In close proximity to the catheter track within the left hepatic lobe, there is a focal, contrast-enhancing saccular outpouching arising from a branch of the left hepatic artery, measuring approximately 8 mm, consistent with a pseudoaneurysm. No active extravasation of contrast is seen into the peritoneum at this time.
+
+There is no evidence of free intraperitoneal air or pneumoperitoneum. No high-attenuation fluid collections or hematomas are identified in the perihepatic or perisplenic spaces.
+
+The gallbladder is contracted and unremarkable. The pancreas, spleen, and adrenal glands are normal in size and attenuation without focal lesions. Both kidneys demonstrate symmetric enhancement and excretion; there is a small, non-obstructing 4 mm simple cyst in the lower pole of the right kidney.
+
+The bowel loops are non-dilated and show no wall thickening or obstructive patterns. The urinary bladder is partially filled and unremarkable. Small, scattered atherosclerotic calcifications are noted along the abdominal aorta and its primary branches. Mild degenerative changes are present in the lumbar spine.
+
+**CONCLUSION:**
+Left hepatic artery pseudoaneurysm occurring in the setting of recent trans-gastric biliary drainage. No associated hemoperitoneum or pneumoperitoneum.

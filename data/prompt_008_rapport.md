@@ -1,0 +1,17 @@
+**INDICATION:** 24-year-old female. Suicide attempt via fall from height. Evaluate for traumatic lesions.
+
+**TECHNIQUE:** Multidetector CT of the chest was performed. Intravenous contrast was administered for arterial phase imaging to evaluate for active hemorrhage. Coronal and sagittal reformations were reviewed.
+
+**FINDINGS:**
+The lungs are clear without evidence of pneumothorax. There is a moderate left-sided hemothorax noted, with fluid collecting in the dependent portions of the pleural space. No pulmonary contusions are identified in either lung field. The trachea and mainstem bronchi remain patent and midline.
+
+Regarding the thoracic wall, there are acute, minimally displaced fractures involving the left lateral 7th, 8th, and 9th ribs. In the arterial phase images, there is a focal area of contrast extravasation originating from the left 9th intercostal artery, consistent with active bleeding into the pleural space. The right thoracic wall is intact.
+
+The heart size is within normal limits. There is no pericardial effusion. The thoracic aorta and great vessels demonstrate normal caliber and course without evidence of dissection or traumatic injury.
+
+The mediastinum is unremarkable. No lymphadenopathy is seen. The esophagus is normal in appearance.
+
+Incidental findings include a small, simple hepatic cyst measuring 1 cm in the visualized upper portion of the liver, which is an asymptomatic finding. Additionally, there is a slight asymmetry of the breast parenchyma, which is a normal variant for this patient's age. The visualized adrenal glands and upper abdominal organs are otherwise unremarkable.
+
+**CONCLUSION:**
+Acute fractures of the left 7th, 8th, and 9th ribs associated with a left-sided hemothorax and active extravasation of contrast from the left 9th intercostal artery.

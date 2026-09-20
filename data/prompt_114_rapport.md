@@ -1,0 +1,13 @@
+**INDICATION:** 57-year-old female presenting with right ankle swelling and fever. Evaluate for articular effusion and signs of septic arthritis.
+
+**TECHNIQUE:** Axial MDCT images were acquired through the right knee and ankle joints without intravenous contrast. Multiplanar reformats were performed in the sagittal and coronal planes.
+
+**FINDINGS:**
+The visualized right knee joint demonstrates normal alignment. There is no evidence of a joint effusion or significant synovial thickening within the suprapatellar bursa. The femoral and tibial articular surfaces are smooth, although there are mild, age-related marginal osteophytes noted at the anterior aspect of the patellofemoral joint. The surrounding soft tissues of the knee are unremarkable.
+
+Moving distally to the right ankle, the tibiotalar joint space is maintained. There is a moderate amount of joint effusion present, characterized by an increase in fluid density within the joint capsule. Linear calcifications are clearly visualized within the fibrocartilage of the ankle joint, consistent with chondrocalcinosis. The talonavicular and calcaneocuboid joints are well-aligned without significant degenerative change.
+
+The visualized distal tibia and fibula show normal cortical thickness and marrow signal. There is a small, benign-appearing cortical desmoid (enostosis) noted in the distal tibial metaphysis, which is an incidental finding. The surrounding subcutaneous soft tissues exhibit mild edema, particularly around the medial malleolus, but there are no discrete abscesses or gas collections identified. The visualized tendons, including the Achilles tendon, appear intact.
+
+**CONCLUSION:**
+Right ankle chondrocalcinosis associated with a moderate joint effusion. No CT evidence of destructive bony changes or gas to suggest an aggressive septic process.

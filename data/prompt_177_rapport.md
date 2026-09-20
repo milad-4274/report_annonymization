@@ -1,0 +1,13 @@
+**INDICATION:** 24-year-old female presenting with recurrent left tibial pain. Evaluate for osteoid osteoma versus occult fracture.
+
+**TECHNIQUE:** Multiplanar, multisequence imaging of the left lower leg was performed without intravenous contrast. Sequences include T1-weighted, T2-weighted fat-saturated, and STIR images.
+
+**FINDINGS:**
+The visualized portions of the knee and ankle joints are unremarkable. There is no joint effusion or significant synovial thickening noted at either end of the tibia. The cruciate and collateral ligaments of the knee appear intact, and the ankle ligaments show no evidence of tear or sprain.
+
+Regarding the osseous structures, there is a small, well-circumscribed round nidus measuring approximately 6 mm in the mid-diaphysis of the left tibia. This lesion is characterized by low signal intensity on T1 and T2 weighted sequences, though it demonstrates a small central area of slightly higher signal. Surrounding this nidus, there is extensive, confluent marrow edema involving the medullary space of the tibial shaft, extending several centimeters superiorly and inferiorly. There is also mild reactive thickening of the adjacent cortex. No linear fracture lines, cortical disruptions, or periosteal reactions suggestive of an acute occult fracture are identified.
+
+The surrounding musculature of the calf and anterior compartment is symmetric and maintains normal signal intensity. There are no intramuscular collections or hematomas. A small, non-specific fluid collection is noted within the distal subcutaneous tissues, likely representing a minor superficial seroma or normal variant. Additionally, there is a small accessory peroneal muscle belly noted, which is a common anatomic variant. The deep veins and arteries of the leg demonstrate normal flow voids.
+
+**CONCLUSION:**
+Findings are highly suggestive of an osteoid osteoma located in the left tibial diaphysis, characterized by a small nidus with significant surrounding reactive bone marrow edema. No evidence of an occult fracture.

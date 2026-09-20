@@ -1,0 +1,15 @@
+**INDICATION:** 75-year-old male presenting with diffuse abdominal pain. Laboratory results are reportedly within normal limits. Evaluate for colitis, mesenteric ischemia, or other intra-abdominal anomalies.
+
+**TECHNIQUE:** Computed tomography of the abdomen and pelvis was performed. Axial images were acquired from the diaphragm to the pubic symphysis. Intravenous contrast was administered for arterial and portal venous phase imaging. Coronal and sagittal reformations were reviewed.
+
+**FINDINGS:**
+The liver demonstrates normal size and contour without focal lesions or intrahepatic biliary ductal dilatation. The gallbladder is present and unremarkable, though there is some mild wall thickening likely related to age. The spleen and pancreas are normal in appearance and morphology.
+
+Regarding the gastrointestinal tract, there is no evidence of diffuse bowel wall thickening, mucosal edema, or pneumatosis intestinalis to suggest colitis or acute mesenteric ischemia. The mesenteric vessels are patent throughout their course. There is no free intraperitoneal air or high-attenuation fluid collections noted in the peritoneal cavity.
+
+The right kidney contains a suspicious, heterogeneously enhancing mass measuring approximately 4.2 cm located in the upper pole, which appears to distort the renal contour. No evidence of hydronephrosis is seen on the right. The left kidney is normal in size and enhancement without masses or calculi.
+
+The urinary bladder is moderately distended with smooth walls. The prostate is enlarged, consistent with benign prostatic hyperplasia, which is expected for the patient's age. The visualized portions of the lower lungs are clear, and there is no significant pleural effusion. The visualized osseous structures show mild degenerative changes of the lumbar spine and a small benign-appearing sclerotic island in the left iliac wing.
+
+**CONCLUSION:**
+Suspicious enhancing mass in the upper pole of the right kidney. No evidence of associated renal vein thrombosis or lymphadenopathy.

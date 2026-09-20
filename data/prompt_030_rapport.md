@@ -1,0 +1,21 @@
+**CT ABDOMEN AND PELVIS WITH IV CONTRAST**
+
+**Indication:** 72-year-old female presenting with epigastric pain for 3 days. Elevated lipase and CRP levels. Evaluate for pancreatitis and potential complications.
+
+**Technique:** Axial CT images were acquired from the diaphragm to the pubic symphysis following the administration of intravenous contrast. Multiplanar reformats were performed.
+
+**Findings:**
+The liver demonstrates normal size and contour with homogeneous attenuation; no focal masses or intrahepatic biliary dilatation noted. The gallbladder is present without wall thickening or pericholecystic fluid. The common bile duct is within normal limits for age. The spleen and adrenal glands are unremarkable in appearance.
+
+The pancreas is diffusely enlarged and edematous with ill-defined margins and characteristic stranding of the peripancreatic fat. There is some mild blurring of the pancreatic lobulations, but the gland remains enhancing throughout, with no evidence of focal necrosis or organized fluid collections. No pseudocysts are identified at this time.
+
+The kidneys show symmetric enhancement and excretion. There is no hydronephrosis or nephrolithiasis. The urinary bladder is well-distended with smooth walls.
+
+Regarding the bowel, there is no evidence of mechanical obstruction or inflammatory bowel disease. A few small diverticula are noted in the sigmoid colon without signs of acute diverticulitis. There is a small amount of free fluid in the pelvis, which is non-specific.
+
+Within the visualized lower thorax, there is a trace amount of left-sided pleural effusion. The visualized lung bases are otherwise clear.
+
+The abdominal aorta is mildly ectatic and tortuous, consistent with the patient's age, but no aneurysm is seen. The bony structures demonstrate mild degenerative changes of the lumbar spine and osteopenia.
+
+**Conclusion:**
+Findings are consistent with acute pancreatitis. There is no evidence of pancreatic necrosis or organized fluid collections. Minimal left pleural effusion is present.

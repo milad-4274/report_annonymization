@@ -1,0 +1,17 @@
+**CT CHEST AND UPPER ABDOMEN WITH IV CONTRAST**
+
+**Indication:** 68-year-old male presenting with unintentional weight loss and fatigue. Evaluate for suspected malignancy.
+
+**Technique:** Helical CT imaging was performed from the thoracic inlet through the upper abdomen. Intravenous contrast was administered for vascular and visceral enhancement. Multiplanar reformats were reviewed.
+
+**Findings:**
+The lungs are clear without any focal consolidation, suspicious pulmonary nodules, or pleural effusions. There is no evidence of pneumothorax. The tracheobronchial tree is patent throughout.
+
+Regarding the mediastinum, there is a significant, irregular circumferential wall thickening involving the distal esophagus, extending from the mid-thoracic region down into the gastroesophageal junction. This lesion causes high-grade luminal narrowing and obstruction, with proximal dilatation of the esophageal lumen. The thickening appears soft-tissue dense and is suggestive of a primary neoplastic process. No enlarged mediastinal or hilar lymph nodes are identified. The heart size is within normal limits and the pericardium is thin.
+
+The visualized upper abdominal organs are unremarkable. The liver shows a small, well-circumscribed hypodense lesion in segment IV, likely representing a simple hepatic cyst. The spleen, pancreas, and adrenal glands appear normal in size and attenuation. No free fluid or lymphadenopathy is noted in the upper abdomen.
+
+The bony structures show mild degenerative changes of the thoracic spine and some patchy osteopenia, which is expected for the patient's age. The chest wall and visualized shoulder girdles are intact.
+
+**Conclusion:**
+Obstructing mural thickening of the lower esophagus, highly suspicious for a tumoral origin. No evidence of distant metastatic disease within the imaged field.

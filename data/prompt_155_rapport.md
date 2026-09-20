@@ -1,0 +1,15 @@
+**CT ANGIOGRAPHY (CTA) CHEST AND ABDOMEN**
+
+**Indication:** 67-year-old female. First control scan one month following BEVAR (Bilateral Endovascular Aortic Repair). Evaluate for aneurysm exclusion and presence of endoleaks.
+
+**Technique:** Helical CT acquisition was performed from the thoracic inlet through the pelvic brim following the administration of intravenous contrast. Bolus tracking was utilized to optimize arterial opacification. Multiplanar reformats were reviewed.
+
+**Findings:**
+The thoracic aorta is unremarkable in caliber without evidence of dissection or aneurysm. The heart size is within normal limits, although there is a small amount of pericardial fluid, likely physiologic. The lungs are clear; however, there are a few scattered, subcentimeter pulmonary nodules in both lower lobes, which are non-specific and likely represent old granulomatous disease. No pleural effusion or pneumothorax is noted.
+
+Regarding the abdominal aorta, the previously placed endograft is well-positioned. There is complete exclusion of the aneurysmal sac from the systemic circulation. Comparison with the preoperative imaging demonstrates a measurable decrease in the maximum transverse diameter of the aneurysmal sac, indicating positive remodeling. No evidence of Type I or Type III endoleaks is seen at the proximal or distal attachment sites. No Type II endoleaks are identified arising from lumbar arteries or the inferior mesenteric artery. The graft limbs are patent and extend appropriately into the common iliac arteries.
+
+The liver, gallbladder, spleen, and pancreas demonstrate normal enhancement and morphology. There is a small, simple hepatic cyst measuring 1.2 cm in segment IV, which is an incidental finding. The kidneys show symmetric excretion of contrast without hydronephrosis. The bladder is unremarkable. No free fluid or lymphadenopathy is observed in the retroperitoneum. The visualized osseous structures show mild degenerative changes of the lumbar spine, consistent with the patient's age.
+
+**Conclusion:**
+Status post-BEVAR with successful exclusion of the aneurysmal sac and documented shrinkage of the sac diameter. No endoleaks are identified.

@@ -1,0 +1,17 @@
+**CT ABDOMEN AND PELVIS WITH IV CONTRAST**
+
+**Indication:** 75-year-old female with known Klatskin 3b intra-hepatic cholangiocarcinoma. Status post recent trans-gastric left biliary drainage. Presents with abdominal pain. Evaluate for pneumoperitoneum or iatrogenic injury.
+
+**Technique:** Helical CT imaging was performed from the diaphragm to the pubic symphysis following the administration of intravenous contrast. Multiplanar reformations were reviewed.
+
+**Findings:**
+The lungs bases are clear without pleural effusion or consolidation. The heart size is within normal limits for age, though there is mild atherosclerotic calcification noted along the thoracic aorta.
+
+Regarding the hepatobiliary system, there is evidence of the previously described hilar cholangiocarcinoma (Klatskin 3b) causing significant intrahepatic biliary ductal dilatation. A trans-gastric biliary drainage catheter is visualized, traversing the gastric wall into the left hepatic duct system. The catheter tip is well-positioned within the dilated biliary tree. There is no evidence of catheter migration or kinking. Importantly, there is no free intraperitoneal air to suggest an unplanned pneumoperitoneum, and no localized fluid collections or hematomas are seen around the insertion site or along the catheter tract to indicate an acute iatrogenic vascular or visceral injury.
+
+The gallbladder is contracted and unremarkable. The pancreas, spleen, and adrenal glands demonstrate normal morphology and enhancement. Both kidneys show symmetric excretion of contrast; however, there are small, non-obstructing renal cortical cysts bilaterally, which are common for the patient's age.
+
+The stomach and small bowel loops are non-dilated. The colon is unremarkable without wall thickening. There is a small amount of physiological pelvic free fluid. The urinary bladder is partially filled and smooth-walled. No significant lymphadenopathy is identified in the retroperitoneum or pelvis. The visualized osseous structures show mild degenerative changes of the lumbar spine and osteopenia.
+
+**Conclusion:**
+Uncomplicated trans-gastric biliary drainage with stable catheter positioning. No evidence of pneumoperitoneum or iatrogenic lesion.

@@ -1,0 +1,19 @@
+**CT ABDOMEN AND PELVIS WITH IV CONTRAST**
+
+**Indication:** 69-year-old male presenting with epigastric pain for three days. Elevated lipase and CRP levels. Evaluate for pancreatitis and potential complications.
+
+**Technique:** Helical CT imaging was performed from the diaphragm to the pubic symphysis following the administration of intravenous contrast. Multiplanar reformats were reviewed.
+
+**Findings:**
+The liver demonstrates normal size and contour with homogeneous attenuation; no focal masses or intrahepatic biliary dilatation is seen. The gallbladder is present without wall thickening or pericholecystic fluid. The common bile duct is within normal limits for age. The spleen is normal in size and attenuation, though there is an adjacent vascular abnormality noted in the region of the splenic artery.
+
+The pancreas is diffusely enlarged and edematous with ill-defined margins and significant peripancreatic stranding extending into the anterior pararenal space. There is evidence of acute pancreatitis. Within the peripancreatic region, specifically involving the splenic and gastroduodenal arterial branches, there are focal, contrast-enhancing saccular dilatations consistent with pseudoaneurysms. No large organized fluid collections or walled-off necrosis are identified at this time.
+
+The stomach and duodenum show mild wall thickening, likely reactive to the adjacent inflammatory process. The remainder of the small bowel and colon are unremarkable in caliber and wall thickness. There is a small amount of free fluid in the pelvis.
+
+The kidneys are normal in position and excretion, although there is a small, simple cortical cyst in the left lower pole measuring 1.2 cm. The adrenal glands are unremarkable. The aorta is mildly ectatic and tortuous throughout the abdomen, which is expected for the patient's age.
+
+The visualized lungs at the bases are clear. No pleural effusions are noted. The bony structures of the spine and pelvis demonstrate mild degenerative changes and osteophytic spurring.
+
+**Conclusion:**
+Acute pancreatitis with associated splenic and gastroduodenal artery pseudoaneurysms. No evidence of infected necrosis or large abscess formation.

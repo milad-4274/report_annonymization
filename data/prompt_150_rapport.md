@@ -1,0 +1,15 @@
+**EXAMINATION:** CT Abdomen and Pelvis with IV Contrast
+
+**INDICATION:** 63-year-old male presenting with acute abdominal pain localized to the right upper quadrant. Evaluate for cholecystitis and bile duct dilatation.
+
+**TECHNIQUE:** Axial MDCT images were acquired from the diaphragm to the pubic symphysis following the administration of intravenous contrast. Multiplanar reformats were performed.
+
+**FINDINGS:**
+The liver demonstrates normal size and contour. There is no focal hepatic mass or suspicious enhancement pattern noted. However, upon evaluation of the portal venous system, there is a filling defect within a segmental branch of the left portal vein consistent with thrombosis. The main portal vein and the right portal vein remain patent. The gallbladder is unremarkable without wall thickening or pericholecystic fluid; no radiopaque gallstones are visualized. There is no evidence of intrahepatic or extrahepatic biliary ductal dilatation.
+
+The spleen, pancreas, and adrenal glands are normal in appearance and morphology. No pancreatic inflammatory changes are seen. The kidneys show symmetric enhancement and excretion without hydronephrosis or nephrolithiasis. A small, simple cortical cyst is noted in the lower pole of the right kidney, which is an incidental finding.
+
+The gastrointestinal tract is non-dilated. There is no evidence of bowel wall thickening or abnormal mesenteric enhancement. No free intraperitoneal air or significant ascites is identified. The aorta is mildly ectatic and tortuous, which is expected for the patient's age. The urinary bladder is moderately distended with smooth walls. No pelvic lymphadenopathy is observed. The visualized lung bases are clear.
+
+**CONCLUSION:**
+Left segmental portal vein thrombosis. No evidence of associated biliary obstruction or gallbladder inflammation.

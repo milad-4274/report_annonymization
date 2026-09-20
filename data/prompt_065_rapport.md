@@ -1,0 +1,17 @@
+**INDICATION:** 53-year-old male presenting with left flank pain and fever. Evaluate for complicated pyelonephritis.
+
+**TECHNIQUE:** Axial CT imaging was performed from the thoracic inlet through the symphysis pubis. Contrast was administered intravenously. Multiplanar reformats were reviewed.
+
+**FINDINGS:**
+The lungs are clear without evidence of consolidation, pleural effusion, or pneumothorax. There is no significant mediastinal or hilar lymphadenopathy. The heart size is within normal limits and the pericardium is thin.
+
+Within the upper abdomen, the liver demonstrates normal attenuation and smooth contours; no focal masses are identified. The gallbladder is present without wall thickening or pericholecystic fluid. The spleen and pancreas are unremarkable in size and enhancement pattern.
+
+Regarding the adrenal glands, there is a well-circumscribed, low-attenuation nodule measuring approximately 1.4 cm in the right adrenal gland. This lesion demonstrates lipid-rich characteristics consistent with an adenoma. The left adrenal gland is normal in morphology.
+
+The kidneys are symmetric in size. There is no evidence of hydronephrosis, nephrolithiasis, or perinephric stranding. The renal cortices enhance normally and symmetrically. No abscesses or focal collections are seen within the renal parenchyma.
+
+The bowel loops are non-dilated and show no signs of obstruction or inflammatory wall thickening. A small amount of diverticulosis is noted in the sigmoid colon without evidence of acute diverticulitis. There is a small, benign-appearing hepatic hemangioma in segment IV. The urinary bladder is partially filled and the walls are smooth. No free intraperitoneal air or fluid is visualized. The visualized osseous structures are intact, though there is mild degenerative change noted at the L4-L5 facet joints.
+
+**CONCLUSION:**
+Right adrenal lipid-rich adenoma. No evidence of complicated pyelonephritis.

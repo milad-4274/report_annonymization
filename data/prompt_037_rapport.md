@@ -1,0 +1,17 @@
+**EXAMINATION:** CT Abdomen and Pelvis with IV Contrast
+
+**INDICATION:** 36-year-old female with persistent hypotension following vaginal delivery. Evaluate for hematoma or active bleeding.
+
+**TECHNIQUE:** Helical CT imaging was performed from the diaphragm to the symphysis pubis following the administration of intravenous contrast. Multiplanar reformats were reviewed.
+
+**FINDINGS:**
+The lungs bases are clear without pleural effusion or pneumothorax. The heart size is within normal limits and there is no pericardial effusion noted.
+
+Within the abdomen, the liver demonstrates normal attenuation and smooth contours; no focal lesions are identified. The gallbladder is present without wall thickening or pericholecystic fluid. The spleen and pancreas are unremarkable in appearance. Both kidneys show symmetric enhancement and excretion of contrast, though there is a small, simple cortical cyst measuring 8mm in the left kidney, which is an incidental finding. There is no hydronephrosis. The aorta and its major branches are patent and of normal caliber.
+
+Regarding the gastrointestinal tract, the stomach and small bowel loops are non-dilated. The colon is unremarkable. No free intraperitoneal air or high-attenuation fluid is seen within the peritoneal cavity.
+
+In the pelvis, the uterus is enlarged, consistent with the immediate postpartum state. Within the endometrial cavity, there is a heterogeneous collection of hyperdense material consistent with an intra-uterine hematoma. There is no evidence of contrast extravasation or "blush" to suggest active arterial bleeding at this time. The ovaries are visualized and appear normal for age. The urinary bladder is partially filled and unremarkable. There is a trace amount of free fluid in the pouch of Douglas, which is expected in the postpartum period. No pelvic lymphadenopathy is observed.
+
+**CONCLUSION:**
+Postpartum intra-uterine hematoma without evidence of active bleeding.

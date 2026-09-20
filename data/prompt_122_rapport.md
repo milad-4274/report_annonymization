@@ -1,0 +1,19 @@
+**CT ABDOMEN AND PELVIS WITH IV CONTRAST**
+
+**Indication:** 37-year-old female presenting with abdominal pain and fever following recent hysterectomy. Evaluate for collection, abscess, or ureteral injury.
+
+**Technique:** Helical CT imaging was performed from the diaphragm through the symphysis pubis following the administration of intravenous contrast. Multiplanar reformats were reviewed.
+
+**Findings:**
+The lungs bases are clear without pleural effusion or pneumothorax. The heart size is within normal limits and there is no pericardial effusion.
+
+The liver demonstrates normal size and attenuation with smooth contours; no focal lesions are identified. The gallbladder is present without wall thickening or pericholecystic fluid. The biliary tree is not dilated. The spleen and pancreas are unremarkable in appearance. The adrenal glands are normal in morphology.
+
+There is no free intraperitoneal air. A small amount of simple free fluid is noted in the paracolic gutters, likely postoperative.
+
+Within the pelvis, there is a large, well-circumscribed fluid collection measuring approximately 9 cm in its greatest dimension, located primarily in the left pelvic region. This collection demonstrates low attenuation consistent with a urinoma. There is an associated lack of continuity and abnormal contrast extravasation noted at the distal aspect of the left ureter, consistent with an iatrogenic lesion. The right ureter follows a normal course and terminates normally in the bladder. The urinary bladder is partially collapsed but otherwise unremarkable.
+
+The visualized bowel loops are non-dilated and show no evidence of obstruction. There is mild thickening of the sigmoid colon wall, which may be reactive. Small, benign-appearing hepatic hemangioma is noted in segment IV. Additionally, there are a few small, non-specific pelvic lymph nodes, none meeting size criteria for malignancy. The bony structures of the pelvis and spine are intact without acute fracture.
+
+**Conclusion:**
+Large 9 cm pelvic urinoma associated with an iatrogenic lesion of the lower left ureter. No evidence of organized abscess formation.

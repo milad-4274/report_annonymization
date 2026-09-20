@@ -1,0 +1,15 @@
+**INDICATION:** 19-year-old male with recurrent right arm pain. Prior radiographs demonstrate a subcortical humeral lesion. Evaluate for osteoid osteoma versus occult fracture.
+
+**TECHNIQUE:** Multiplanar, multisequence imaging of the right humerus was performed without intravenous contrast. Sequences include T1-weighted, T2-weighted fat-saturated, and STIR imaging.
+
+**FINDINGS:**
+The visualized portions of the right shoulder joint and elbow joint are unremarkable. There is no evidence of joint effusion or synovial thickening. The glenohumeral joint space is well preserved.
+
+Regarding the humeral shaft, there is a well-defined intramedullary lesion located within the mid-to-proximal diaphysis of the right humerus. This lesion demonstrates a characteristic "ground-glass" appearance on T1-weighted images, appearing mildly hypointense relative to the surrounding fatty marrow. On T2 and STIR sequences, the lesion shows low to intermediate signal intensity without the presence of an aggressive periosteal reaction or a central nidus typically associated with osteoid osteoma. The cortex is slightly thinned and expanded over the area of the lesion, but remains intact. There is no evidence of a cortical break, marrow edema, or soft tissue component to suggest an acute occult fracture.
+
+The surrounding musculature, including the biceps and triceps brachii, appears normal in bulk and signal intensity. No intramuscular collections or atrophy noted. The neurovascular bundle, specifically the brachial artery and median nerve, follows a normal course without compression.
+
+Incidental finding includes a small, non-specific synovial plica at the elbow joint, which is a common normal variant. There is also a very mild prominence of the coracoid process, likely constitutional. Otherwise, the visualized soft tissues of the upper arm are unremarkable.
+
+**CONCLUSION:**
+Findings are consistent with fibrous dysplasia of the right humerus. There is no evidence of pathologic fracture or features suggestive of an osteoid osteoma.

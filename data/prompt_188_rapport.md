@@ -1,0 +1,17 @@
+**CT CHEST**
+
+**Indication:** 57-year-old male presenting with left-sided thoracic pain. Cardiac etiology has been ruled out. Prior chest X-ray demonstrated irregularity of the left 6th rib. Evaluate for rib anomaly or fracture.
+
+**Technique:** Helical CT acquisition was performed from the lung apices through the upper abdomen without intravenous contrast. Multiplanar reformations were reviewed in lung and soft tissue windows.
+
+**Findings:**
+The lungs are clear. There is no evidence of focal consolidation, suspicious pulmonary nodules, or pleural effusion. The tracheobronchial tree is patent and unremarkable in caliber.
+
+The heart size is within normal limits for the patient's age. The pericardium is thin and there is no significant pericardial effusion. The thoracic aorta and great vessels demonstrate a normal course and caliber throughout the chest.
+
+Regarding the thoracic wall, there are acute, non-displaced fractures involving the serial left 5th, 6th, and 7th ribs along the posterior and lateral arcs. These correlate with the irregularities noted on the previous radiograph. There is no associated pneumothorax or significant subcutaneous emphysema. The remaining ribs, including those on the right side, are intact.
+
+Within the mediastinum, there is mild fatty infiltration of the thymus, which is an expected finding for this age group. A small, stable 4mm calcified granuloma is noted in the right lower lobe, likely representing a prior healed infection. The visualized portions of the upper abdomen, including the liver and spleen, appear unremarkable.
+
+**Conclusion:**
+Serial fractures of the left 5th, 6th, and 7th ribs. No associated pneumothorax or hemothorax identified.

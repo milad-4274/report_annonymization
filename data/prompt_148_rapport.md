@@ -1,0 +1,15 @@
+**INDICATION:** 64-year-old male with diffuse biliary dilatation noted on prior CT scan. No previous imaging available for comparison. Evaluate for impacted gallstone versus neoplasia.
+
+**TECHNIQUE:** Multiplanar, multisequence MR imaging of the abdomen was performed. Dedicated MRCP sequences were obtained. T1 and T2 weighted images were acquired in axial, coronal, and sagittal planes. Post-contrast dynamic imaging was performed.
+
+**FINDINGS:**
+The liver demonstrates normal size and contour. There is no focal hepatic mass or suspicious enhancement pattern identified. The portal vein and hepatic veins are patent with normal flow voids. A few small, well-circumscribed T2-hyperintense lesions are noted in the right lobe, consistent with simple hepatic cysts.
+
+Regarding the biliary system, there is diffuse dilatation of the intrahepatic bile ducts throughout both lobes. This extends to involve the common hepatic duct and the common bile duct, which is dilated uniformly down to the level of the ampulla. Despite the dilatation, there is no discrete filling defect, obstructing mass, or impacted calculus visualized within the lumen of the biliary tree. The gallbladder is present and moderately distended; its wall is thin and no cholelithiasis is seen.
+
+The pancreas is normal in morphology and signal intensity. The pancreatic duct is not dilated. There are no peripancreatic fluid collections or masses.
+
+The spleen and adrenal glands are unremarkable in appearance. The kidneys show normal cortical thickness and excretion, though there is a small, non-obstructing 4mm left renal cyst. The abdominal aorta is mildly ectatic but does not meet criteria for aneurysm. No lymphadenopathy is identified in the retroperitoneum or porta hepatis. No free fluid or free air is seen within the peritoneal cavity.
+
+**CONCLUSION:**
+Diffuse dilatation of the intrahepatic and extrahepatic bile ducts without evidence of an obstructing mass or impacted gallstone. No associated cholangitis or biliary perforation is observed.

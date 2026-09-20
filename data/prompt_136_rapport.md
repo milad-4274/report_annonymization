@@ -1,0 +1,17 @@
+**CT CHEST WITH IV CONTRAST (CTPA)**
+
+**Indication:** 54-year-old male presenting with acute onset hemoptysis and dyspnea. Evaluate for pulmonary embolism versus lung malignancy.
+
+**Technique:** Helical CT imaging was performed from the thoracic inlet through the adrenal glands following the administration of intravenous contrast bolus timed for pulmonary arterial opacification. Multiplanar reformats were reviewed.
+
+**Findings:**
+The lungs demonstrate diffuse, patchy ground-glass opacities and denser consolidations distributed bilaterally, predominantly in a perihilar and central distribution. These findings are highly suggestive of extensive alveolar hemorrhage given the clinical context. There is no evidence of a discrete pulmonary mass, suspicious nodule, or hilar lymphadenopathy to suggest an underlying primary lung malignancy. The pleural spaces are clear without effusion or pneumothorax.
+
+Evaluation of the pulmonary vasculature reveals filling defects within the main pulmonary arteries bilaterally, extending into the right and left main lobar branches. These represent large central pulmonary emboli causing partial occlusion of the vessel lumens. The peripheral segmental and subsegmental arteries are less clearly visualized due to the overlying parenchymal hemorrhage but no further large clots are noted.
+
+The heart size is at the upper limit of normal. There is mild right ventricular enlargement with a right ventricle to left ventricle diameter ratio slightly greater than 1.0, suggesting some degree of right heart strain. The pericardium is thin and unremarkable.
+
+The mediastinal contours are normal. The trachea and mainstem bronchi are patent. The esophagus is unremarkable. Visualized portions of the upper abdominal organs, including the liver and spleen, appear normal for age. There is a small, benign-appearing hepatic cyst measuring 1.2 cm in segment IV. Mild degenerative changes are noted in the thoracic spine.
+
+**Conclusion:**
+Bilateral central pulmonary embolism with associated signs of right heart strain. Extensive bilateral alveolar hemorrhage is present.

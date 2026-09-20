@@ -1,0 +1,19 @@
+**CT ABDOMEN AND PELVIS WITH IV CONTRAST**
+
+**Indication:** 74-year-old male presenting with abdominal pain and bloating three days status post radical cystectomy. Evaluate for postoperative complications, specifically urinary leak.
+
+**Technique:** Axial CT images were acquired from the diaphragm to the symphysis pubis following the administration of intravenous contrast. Multiplanar reformats were performed.
+
+**Findings:**
+The lungs bases are clear without pleural effusion or pneumothorax. The heart size is within normal limits for the patient's age, though there is mild atherosclerotic calcification noted within the coronary arteries.
+
+The liver demonstrates normal size and attenuation with no focal masses or intrahepatic biliary ductal dilatation. The gallbladder is present without wall thickening or pericholecystic fluid. The spleen, pancreas, and adrenal glands are unremarkable in appearance.
+
+There is a moderate amount of free intra-abdominal fluid localized primarily to the paracolic gutters and the pelvis, which is considered an expected finding given the recent surgical history. There is no evidence of organized collection, abscess, or active extravasation of contrast material to suggest a urinary leak. The bowel loops are non-dilated and show normal enhancement; no mechanical obstruction or ischemic changes are seen.
+
+Status post radical cystectomy with expected postoperative changes in the pelvic cavity. The surgical bed shows no abnormal fluid collections or hematomas. The kidneys are normal in size and position with symmetric excretion of contrast and no hydronephrosis.
+
+Within the abdomen, there is a small, benign-appearing hepatic hemangioma measuring approximately 1.2 cm in segment IV. Mild degenerative changes are noted throughout the lumbar spine with small marginal osteophytes. The visualized pelvic bones are intact.
+
+**Conclusion:**
+Postoperative changes following radical cystectomy with a normal postoperative amount of free intra-abdominal fluid. No evidence of urinary leak or other acute postoperative complication.

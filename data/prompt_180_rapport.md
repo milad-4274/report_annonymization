@@ -1,0 +1,13 @@
+**INDICATION:** 53-year-old male presenting with left knee swelling and fever. Evaluate for septic arthritis versus osteoarthritis.
+
+**TECHNIQUE:** Axial CT images were acquired through the left knee joint without intravenous contrast. Multiplanar reformations were performed in the sagittal and coronal planes.
+
+**FINDINGS:**
+The bony alignment of the left knee is maintained. There is moderate narrowing of the medial femorotibial joint space with associated marginal osteophyte formation, consistent with mild degenerative changes. No acute fracture or dislocation is identified. The visualized portions of the distal femur and proximal tibia show normal marrow signal intensity without evidence of aggressive cortical destruction or periosteal reaction.
+
+There is a significant amount of joint effusion present within the suprapatellar bursa and extending throughout the joint capsule. The fluid demonstrates increased attenuation and there is noticeable thickening and enhancement of the synovial lining, which is suggestive of an inflammatory or infectious process. The fat pads are displaced by the effusion but remain otherwise unremarkable.
+
+The patellofemoral joint space is relatively preserved, although some minor subchondral sclerosis is noted at the patellar poles. The surrounding soft tissues show mild edema, particularly along the medial aspect of the joint. There is a small, non-specific soft tissue density in the popliteal fossa, likely representing a prominent vein or a small benign lymph node, which is a common finding. The visualized neurovascular bundles are intact.
+
+**CONCLUSION:**
+Large left knee articular effusion with synovial thickening and features highly suggestive of an infectious origin. No evidence of associated bony destruction or osteomyelitis.

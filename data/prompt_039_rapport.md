@@ -1,0 +1,19 @@
+**INDICATION:** 89-year-old female presenting with non-traumatic right flank pain. Evaluate for pyelonephritis versus hematoma.
+
+**TECHNIQUE:** Computed tomography of the abdomen and pelvis was performed. Intravenous contrast was administered for arterial and venous phase imaging. Coronal and sagittal reformations were reviewed.
+
+**FINDINGS:**
+The liver demonstrates normal size and contour with homogeneous attenuation; no focal masses or intrahepatic biliary ductal dilatation is seen. The gallbladder is present without wall thickening or pericholecystic fluid. The spleen and pancreas are unremarkable in appearance.
+
+Regarding the kidneys, there is no evidence of hydronephrosis or perinephric stranding. Both renal cortices show symmetric enhancement without focal collections or abscesses to suggest pyelonephritis. The urinary bladder is partially filled and appears unremarkable.
+
+Within the retroperitoneum, there is a well-circumscribed, hyperdense collection involving the right psoas muscle, consistent with a hematoma. This collection extends along the longitudinal axis of the muscle belly. There is no evidence of active extravasation of intravenous contrast or "blush" to suggest ongoing active hemorrhage. The left psoas muscle is normal in caliber and attenuation.
+
+The visualized bowel loops are non-dilated and demonstrate normal wall thickness. There is no free intraperitoneal air or pleural effusion.
+
+Incidental findings include mild atherosclerotic calcifications within the abdominal aorta and common iliac arteries. There are small, stable degenerative changes noted at the L4-L5 facet joints. A few small, benign-appearing hepatic cysts are noted in the left lobe.
+
+The pelvic organs are unremarkable for the patient's age. The visualized osseous structures show generalized osteopenia.
+
+**CONCLUSION:**
+Right psoas muscle hematoma without evidence of active bleeding.

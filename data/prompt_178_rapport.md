@@ -1,0 +1,13 @@
+**INDICATION:** 19-year-old male presenting with recurrent right humeral pain. Evaluate for possible osteoid osteoma versus occult fracture.
+
+**TECHNIQUE:** Multiplanar, multisequence imaging of the right arm was performed without intravenous contrast. Sequences include T1-weighted, T2-weighted fat-saturated, and STIR images.
+
+**FINDINGS:**
+The visualized portions of the right shoulder joint and elbow joint demonstrate normal alignment. There is no evidence of joint effusion or synovial thickening at either articulation. The biceps tendon is intact and shows normal signal intensity throughout its course.
+
+Regarding the humerus, there is a small, well-circumscribed round lesion located within the cortex of the mid-humeral diaphysis. This lesion demonstrates low signal intensity on both T1 and T2 weighted sequences, consistent with a nidus. Surrounding this focal lesion, there is extensive and prominent reactive bone marrow edema involving the medullary cavity and adjacent soft tissues, which is highly characteristic of an osteoid osteoma. There is no evidence of a cortical break, displaced fragment, or linear low-signal intensity to suggest an acute or occult fracture.
+
+The surrounding musculature of the arm, including the biceps and triceps brachii, appears symmetric and unremarkable without evidence of atrophy or strain. A few small, non-specific synovial plicae are noted near the elbow joint, which are considered normal anatomic variants. Additionally, there is a very small, incidental benign-appearing ganglion cyst measuring approximately 3mm adjacent to the radial collateral ligament, showing no mass effect on adjacent neurovascular structures. The visualized brachial artery and veins are patent with normal flow voids.
+
+**CONCLUSION:**
+Findings are highly suggestive of an osteoid osteoma of the right humeral diaphysis, characterized by a small cortical nidus with significant surrounding reactive marrow edema. There is no evidence of an occult fracture.

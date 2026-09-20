@@ -1,0 +1,19 @@
+**CT ABDOMEN AND PELVIS WITH IV CONTRAST**
+
+**Indication:** 19-year-old male presenting with right lower fossa pain and fever for two days. Evaluate for appendicitis or other acute abdominal process.
+
+**Technique:** Axial MDCT images were acquired from the diaphragm to the pubic symphysis following the administration of intravenous contrast. Multiplanar reformats were performed in the coronal and sagittal planes.
+
+**Findings:**
+The liver is normal in size and contour with homogeneous attenuation; no focal lesions are seen. The gallbladder is unremarkable without wall thickening or pericholecystic fluid. The biliary tree is not dilated. The spleen, pancreas, and adrenal glands appear normal for age.
+
+The kidneys show symmetric enhancement and excretion of contrast without evidence of hydronephrosis or nephrolithiasis. There is a small, simple cortical cyst in the lower pole of the left kidney, measuring approximately 8mm, which is an incidental finding.
+
+Regarding the bowel, there is a markedly dilated, thick-walled appendix measuring up to 14mm in diameter. There is a clear defect in the appendiceal wall at the mid-portion consistent with perforation. Extensive inflammatory stranding is noted throughout the right lower quadrant, involving the mesoappendix and adjacent cecum. A moderate amount of free fluid and several small pockets of extraluminal gas are visualized in the periappendiceal space and extending into the paracolic gutter, suggestive of localized peritonitis. No organized abscess collection is identified at this time. The remainder of the small bowel loops are non-dilated and demonstrate normal wall enhancement. The colon is otherwise unremarkable.
+
+The urinary bladder is moderately distended with smooth walls. The prostate and seminal vesicles are within normal limits for the patient's age. No pelvic lymphadenopathy is observed.
+
+There is a small amount of pleural effusion on the right side, likely reactive. The visualized lung bases are clear. No free air is seen under the diaphragms. The bony structures of the abdomen and pelvis are intact, though there is a mild prominence of the lumbar lordosis.
+
+**Conclusion:**
+Acute perforated appendicitis with associated localized peritonitis and free intraperitoneal fluid.

@@ -1,0 +1,19 @@
+**EXAMINATION:** CT Abdomen and Pelvis with IV Contrast
+
+**INDICATION:** 53-year-old male presenting with pelvic pain, slight fever, and leukocytosis. Evaluate for diverticulitis versus signs of prostatitis.
+
+**TECHNIQUE:** Axial images were acquired from the diaphragm to the symphysis pubis following the administration of intravenous contrast. Multiplanar reformats were performed.
+
+**FINDINGS:**
+The liver demonstrates normal size and attenuation without focal mass or intrahepatic biliary ductal dilatation. The gallbladder is present without wall thickening or pericholecystic fluid. The spleen and pancreas are unremarkable in appearance. The adrenal glands are symmetric and normal in morphology.
+
+There is no free intraperitoneal air or high-attenuation fluid within the peritoneal cavity. No significant lymphadenopathy is noted in the retroperitoneum or mesenteric regions. The kidneys show symmetric enhancement and excretion of contrast; there is a small, non-obstructing 3 mm calculus in the lower pole of the right kidney.
+
+Regarding the bowel, there is marked wall thickening and inflammatory fat stranding involving the sigmoid colon. Associated with this is a large, peripherally enhancing fluid collection measuring approximately 8 cm in the pelvis, consistent with an abscess. This collection exerts mild mass effect on the adjacent bladder. The remainder of the small and large bowel loops are non-dilated and demonstrate normal wall thickness. The appendix is visualized and appears normal.
+
+The urinary bladder is partially compressed by the aforementioned pelvic collection but otherwise shows smooth walls. The prostate gland is normal in size and contour without evidence of focal enlargement or abnormal enhancement to suggest acute prostatitis. The seminal vesicles are unremarkable.
+
+The visualized pelvic bones are intact. There is mild degenerative change noted at the L5-S1 facet joints.
+
+**CONCLUSION:**
+Acute sigmoid diverticulitis complicated by a large 8 cm pelvic abscess.

@@ -1,0 +1,15 @@
+**CT CHEST**
+
+**Indication:** 79-year-old male with known prolonged asbestosis exposure. Evaluate for features of subsequent interstitial pneumonia.
+
+**Technique:** Axial CT images were acquired through the chest without intravenous contrast. Multiplanar reformats were performed.
+
+**Findings:**
+The lungs are visualized. There is evidence of multiple small, poorly defined nodules distributed in a perilymphatic pattern, predominantly along the pleural surfaces and within the interlobular septa. These are seen most prominently in the lower lobes. There is no evidence of confluent consolidation or large ground-glass opacities to suggest an acute interstitial pneumonia process. No pleural effusions are present. The pleural surfaces show mild thickening, consistent with the patient's history of asbestos exposure.
+
+The mediastinum demonstrates several enlarged lymph nodes, specifically within the prevascular and subcarinal stations, which are associated with the pulmonary nodular findings. The trachea and mainstem bronchi remain patent. The heart size is within normal limits for the patient's age, though there is a small amount of pericardial fat. The thoracic aorta shows mild ectasia and atherosclerotic calcifications at the arch.
+
+The visualized upper abdominal organs, including the liver and adrenal glands, appear unremarkable. There is a small, simple hepatic cyst measuring approximately 1 cm in the right lobe, which is an incidental finding. The bony structures of the thoracic cage demonstrate mild degenerative changes and osteophytic spurring of the thoracic spine.
+
+**Conclusion:**
+Perilymphatic lung nodules associated with mediastinal lymphadenopathy. No features of acute interstitial pneumonia identified.

@@ -1,0 +1,17 @@
+**INDICATION:** 71-year-old male, status post esophagectomy 6 days ago. Presenting with fever and elevated inflammatory markers. Evaluate for suture insufficiency, abscess formation, or pneumonia.
+
+**TECHNIQUE:** Contrast-enhanced CT of the chest and upper abdomen was performed. Axial images were acquired with multiplanar reconstructions.
+
+**FINDINGS:**
+The lungs are well expanded. There is no evidence of focal consolidation, pleural effusion, or pneumothorax to suggest an underlying pneumonia. The tracheobronchial tree is patent throughout.
+
+Regarding the surgical site, there is expected postoperative change following esophagectomy. However, there is an abnormal collection of contrast medium and fluid extending into the mediastinum adjacent to the anastomosis, which is highly suggestive of a mediastinal suture insufficiency. There is associated mild stranding of the mediastinal fat. Importantly, there is no evidence of a rim-enhancing fluid collection or organized pocket of gas that would indicate a formed abscess at this time.
+
+The heart size is within normal limits for the patient's age. The pericardium is thin and unremarkable. The thoracic aorta and its primary branches show mild atherosclerotic calcifications, particularly at the arch, which is a common finding in this age group.
+
+The visualized upper abdominal organs, including the liver and spleen, appear unremarkable. There is a small amount of free fluid in the perihepatic space, likely reactive to the recent surgery. A few small, benign-appearing hepatic cysts are noted, measuring up to 8 mm. The adrenal glands are normal in morphology.
+
+The bony structures of the thoracic cage demonstrate mild degenerative changes of the thoracic spine with marginal osteophytes. No acute fractures are identified.
+
+**CONCLUSION:**
+Findings are consistent with a mediastinal suture insufficiency. There is no evidence of a formed abscess.

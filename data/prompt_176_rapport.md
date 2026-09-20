@@ -1,0 +1,15 @@
+**RADIOLOGY REPORT**
+
+**Indication:** 71-year-old male with a history of operated prostate cancer three years ago, currently managed with hormone therapy. Evaluation for suspected oncological recurrence.
+
+**Technique:** Computed Tomography (CT) of the chest, abdomen, and pelvis was performed. Axial images were acquired without intravenous contrast. Multiplanar reformations were reviewed.
+
+**Findings:**
+The lungs are clear without evidence of suspicious pulmonary nodules, masses, or consolidation. There is no pleural effusion or pneumothorax. The mediastinal and hilar lymph node stations are within normal limits for size and morphology. The heart size is normal, although there is mild atherosclerotic calcification noted within the coronary arteries.
+
+The upper abdominal organs, including the liver, spleen, pancreas, and adrenal glands, demonstrate normal attenuation and morphology. No focal hepatic lesions are identified. The kidneys are normal in size and position without hydronephrosis or nephrolithiasis. The bowel loops are non-dilated and show no wall thickening.
+
+Within the pelvis, the urinary bladder is unremarkable. There is no evidence of pelvic lymphadenopathy. Regarding the skeletal system, there is an area of aggressive osteolytic destruction involving the right superior pubic ramus, characterized by cortical breakthrough and loss of trabecular bone architecture. This appearance is highly suggestive of metastatic involvement. The remainder of the visualized pelvic girdle and lumbar spine show some mild degenerative changes, specifically small marginal osteophytes at L4-L5. Additionally, there is mild osteoarthritis of both hip joints with slight joint space narrowing. No other focal lytic or blastic lesions are seen in the axial skeleton.
+
+**Conclusion:**
+Osteolytic destruction of the right pubic ramus consistent with metastatic disease. No associated pathologic fracture is identified.

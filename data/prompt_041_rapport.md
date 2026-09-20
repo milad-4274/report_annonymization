@@ -1,0 +1,13 @@
+**INDICATION:** 57-year-old male with chronic cough. Evaluate for lung cancer versus infection.
+
+**TECHNIQUE:** Helical CT imaging of the chest was performed without intravenous contrast. Axial images were reconstructed at thin intervals.
+
+**FINDINGS:**
+The lungs are well expanded. There is a 15 mm solid, peripherally located nodule identified within the left lower lobe. The margins of this nodule are somewhat irregular. There is no evidence of surrounding consolidation or ground-glass opacities in the immediate vicinity. The remainder of the pulmonary parenchyma is clear, with no pleural effusions or pneumothorax seen.
+
+The mediastinal and hilar contours are within normal limits. There is no significant lymphadenopathy by size criteria in the paratracheal or subcarinal regions. The heart size is normal and there is no pericardial effusion. The thoracic aorta and great vessels demonstrate a normal caliber and course.
+
+The visualized upper abdominal organs, including the liver and adrenal glands, appear unremarkable. There is mild degenerative change noted in the thoracic spine and some minimal calcification of the aortic arch, which is expected for the patient's age. The chest wall and soft tissues are unremarkable.
+
+**CONCLUSION:**
+There is a 15 mm peripheral nodule in the left lower lobe. No associated obstructive pneumonia or pleural complication is identified.

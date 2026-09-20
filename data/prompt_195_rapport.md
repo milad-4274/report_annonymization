@@ -1,0 +1,15 @@
+**INDICATION:** 89-year-old female with back pain and confusion. Evaluate for urinary tract obstruction or bowel obstruction.
+
+**TECHNIQUE:** Computed tomography was performed through the abdomen and pelvis without intravenous contrast. Axial images were obtained and reconstructed in coronal and sagittal planes.
+
+**FINDINGS:**
+The liver is normal in size and contour, showing homogeneous attenuation throughout. The gallbladder is present without evidence of wall thickening or pericholecystic fluid; no radiopaque gallstones are seen. The spleen and pancreas demonstrate unremarkable morphology and attenuation. The adrenal glands are within normal limits for age.
+
+Regarding the gastrointestinal tract, there is no evidence of high-grade bowel obstruction. There are no dilated loops of small bowel or colon, and the transition points are absent. A mild amount of diverticulosis is noted within the sigmoid colon without signs of acute diverticulitis. The appendix is visualized and appears normal.
+
+The kidneys are symmetric in position and size. There is no hydronephrosis or perinephric stranding to suggest an acute urinary tract obstruction. The urinary bladder is partially filled and shows smooth wall thickness.
+
+Evaluation of the visualized skeleton reveals a fracture of the spinous process of the D12 vertebra. The vertebral body height is maintained, and there is no retropulsion of bone into the spinal canal. Mild marginal osteophytic spurring is noted at several levels of the lumbar spine, consistent with degenerative changes. There is generalized osteopenia throughout the imaged pelvis and lower thoracic spine. The visualized pelvic organs are unremarkable for the patient's age.
+
+**CONCLUSION:**
+Fracture of the spinous process of D12 without associated spinal canal compromise.

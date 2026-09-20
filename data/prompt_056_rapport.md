@@ -1,0 +1,13 @@
+**INDICATION:** 64-year-old female with chronic abdominal pain. Ultrasound demonstrated a 7 cm subcapsular mass in the right hepatic lobe. Evaluation for nature of the lesion.
+
+**TECHNIQUE:** Multiplanar, multisequence magnetic resonance imaging of the abdomen was performed before and after the administration of intravenous gadolinium contrast. Dynamic post-contrast series were obtained during the arterial, portal venous, and delayed phases. Diffusion-weighted imaging and MRCP sequences were also acquired.
+
+**FINDINGS:**
+The liver is normal in size and contour. There is a large, ill-defined mass located within the right hepatic lobe, measuring approximately 7.2 x 6.5 x 6.1 cm. This lesion is primarily subcapsular in location. On T2-weighted images, the mass exhibits heterogeneous signal intensity, predominantly mildly hyperintense compared to the surrounding parenchyma. Following intravenous contrast administration, there is characteristic peripheral rim enhancement during the arterial phase with progressive, centripetal filling of the lesion on delayed images. There is evidence of associated capsular retraction overlying the mass. The right hepatic duct shows focal narrowing and irregular wall thickening adjacent to the mass, with mild upstream dilatation of the intrahepatic biliary radicals in segments V and VIII. The left hepatic lobe appears unremarkable with no focal lesions identified. The gallbladder is present and normally distended without wall thickening or pericholecystic fluid. The common bile duct is within normal limits for age.
+
+The spleen, pancreas, and adrenal glands are normal in morphology and signal intensity. No focal masses are noted in these organs. The kidneys show normal cortical thickness and excretion; however, there is a small, simple-appearing cyst in the lower pole of the left kidney measuring 0.8 cm.
+
+There is no evidence of lymphadenopathy in the porta hepatis or retroperitoneum. No free intraperitoneal fluid is visualized. The visualized portions of the bowel loops are non-dilated. A few small, benign-appearing uterine leiomyomas are noted, which is expected for the patient's age.
+
+**CONCLUSION:**
+Large mass forming cholangiocarcinoma involving the right hepatic lobe with associated capsular retraction and focal intrahepatic biliary dilatation. No evidence of distant metastatic disease within the imaged field.

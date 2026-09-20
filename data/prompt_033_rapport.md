@@ -1,0 +1,17 @@
+**CT ABDOMEN AND PELVIS WITH IV CONTRAST**
+
+**Indication:** 44-year-old male presenting after low speed bike crash. Right upper quadrant pain. Abnormal image in the liver noted on POCUS. Evaluate for liver lesion.
+
+**Technique:** Helical CT imaging was performed from the diaphragm to the pubic symphysis following the administration of intravenous contrast. Multiplanar reformats were reviewed.
+
+**Findings:**
+The liver demonstrates a crescentic, hyperdense collection located immediately beneath the hepatic capsule along the superior and right lateral aspects of the right lobe. This is consistent with a subcapsular hematoma. There is no evidence of active extravasation of contrast material to suggest ongoing arterial bleeding. The underlying hepatic parenchyma shows no discrete intraparenchymal lacerations. The gallbladder is unremarkable without wall thickening or pericholecystic fluid. The common bile duct is within normal limits.
+
+The spleen, pancreas, and adrenal glands are normal in size and attenuation without focal lesions or traumatic injury. Both kidneys demonstrate symmetric enhancement and excretion; there is a small, simple cortical cyst in the lower pole of the left kidney, measuring approximately 8 mm.
+
+The gastrointestinal tract is non-dilated. There is no free intraperitoneal air or hemoperitoneum identified outside of the liver capsule. The aorta and inferior vena cava are normal in caliber.
+
+Within the pelvis, the urinary bladder is partially filled and unremarkable. There is a small amount of prominent lymphoid tissue in the mesenteric root, which is likely reactive and non-specific. The visualized osseous structures show no acute fractures, although there is mild degenerative change noted at the L4-L5 facet joints.
+
+**Conclusion:**
+Subcapsular liver hematoma without evidence of active bleeding. No associated hemoperitoneum.

@@ -1,0 +1,17 @@
+**CT ABDOMEN AND PELVIS WITH IV CONTRAST**
+
+**Indication:** 34-year-old female with unfavorable evolution after 48 hours of antibiotic therapy for suspected right pyelonephritis. Evaluate for complications or obstructive pyelonephritis.
+
+**Technique:** Helical CT imaging was performed from the diaphragm to the pubic symphysis following the administration of intravenous contrast. Multiplanar reformats were reviewed.
+
+**Findings:**
+The liver is normal in size and contour with homogeneous parenchymal attenuation; no focal lesions are identified. The gallbladder is present without wall thickening or pericholecystic fluid. The biliary tree is not dilated. The spleen, pancreas, and adrenal glands appear unremarkable within normal limits.
+
+Regarding the gastrointestinal tract, there is no evidence of bowel wall thickening or abnormal dilatation. A small amount of free fluid is noted in the pelvis, which is non-specific and likely physiologic. There is a small, simple 1.2 cm cyst in the left ovary, appearing benign.
+
+The urinary system shows the right kidney is normal in size and position with symmetric enhancement and no evidence of hydronephrosis or perinephric stranding. However, the left kidney demonstrates mild enlargement with diffuse, patchy areas of decreased enhancement throughout the parenchyma. There is associated mild blurring of the perirenal fat planes. No radiopaque calculi are seen in either kidney or ureter, and there is no evidence of hydroureter or pelvic dilation on the left side. The urinary bladder is well-distended with smooth walls.
+
+The visualized lung bases are clear. No lymphadenopathy is noted in the retroperitoneum or pelvic regions. The visualized osseous structures show no acute fractures or suspicious blastic lesions.
+
+**Conclusion:**
+Findings are consistent with uncomplicated left pyelonephritis. There is no evidence of obstructive uropathy or abscess formation.

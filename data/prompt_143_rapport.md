@@ -1,0 +1,13 @@
+**INDICATION:** 33-year-old female in her second trimester of pregnancy presenting with left flank pain. Prior ultrasound was inconclusive regarding the cause of symptoms. Evaluate for left upper urinary tract dilatation.
+
+**TECHNIQUE:** Multiplanar, multisequence MRI of the pelvis and lower abdomen was performed without the administration of intravenous contrast. T2-weighted fast spin echo sequences were obtained in axial, sagittal, and coronal planes.
+
+**FINDINGS:**
+The gravid uterus is visualized, appearing normal for gestational age, and is exerting a moderate mass effect upon the surrounding pelvic structures. There is evidence of slight dilatation of the left upper urinary tract, specifically involving the left renal pelvis and the proximal ureter, which is consistent with extrinsic compression by the gravid uterus at the pelvic brim. No obstructing calculi are identified along the course of the left ureter. The right kidney and ureter demonstrate normal caliber without evidence of hydronephrosis or hydroureter.
+
+The urinary bladder is partially filled and shows smooth wall thickness without intraluminal masses. Both ovaries are visualized; the right ovary appears normal, while the left ovary contains a small, simple follicle measuring approximately 1.2 cm, which is a common finding.
+
+The pelvic venous plexuses are mildly prominent, likely physiologic given the patient's current state. The visualized bowel loops within the pelvis show no wall thickening or abnormal enhancement patterns. The pelvic musculature and subcutaneous soft tissues are unremarkable. No free fluid or lymphadenopathy is noted within the pelvic cavity.
+
+**CONCLUSION:**
+There is slight left upper urinary tract dilatation secondary to compression by the gravid uterus. No evidence of obstructive uropathy or associated complications such as nephrolithiasis.

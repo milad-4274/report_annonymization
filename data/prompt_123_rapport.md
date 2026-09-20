@@ -1,0 +1,15 @@
+**CT ABDOMEN AND PELVIS WITH CONTRAST**
+
+**Indication:** 47-year-old female, 2 days post renal transplant. Point-of-care ultrasound (POCUS) suggests fluid collection adjacent to the graft. Rule out hematoma, active hemorrhage, or lymphocele.
+
+**Technique:** Axial CT images were acquired from the diaphragm to the symphysis pubis following the administration of intravenous contrast. Multiplanar reformations were performed.
+
+**Findings:**
+The liver is normal in size and contour without focal lesions. The gallbladder is unremarkable and no gallstones are seen. The spleen, pancreas, and adrenal glands appear within normal limits for the patient's age. There is no free intraperitoneal air or generalized ascites noted in the upper abdomen.
+
+Regarding the transplanted kidney, it is located in the left iliac fossa. The graft demonstrates normal enhancement and perfusion. However, there is a well-circumscribed, low-attenuation fluid collection measuring approximately 7 cm in its greatest dimension situated immediately adjacent to the kidney graft. The collection shows thin walls and contains simple fluid without internal hyperdensities or evidence of active contrast extravasation to suggest an acute hematoma or active bleeding. This appearance is highly suggestive of a lymphocele.
+
+The native kidneys are visualized and appear unremarkable. The urinary bladder is moderately distended with smooth wall thickness. Within the pelvis, there are small, benign-appearing pelvic phleboliths. Additionally, there is a small, simple 1 cm cyst in the left ovary, which is a common finding. The visualized bowel loops are non-dilated and show no signs of obstruction or inflammatory changes. The visualized osseous structures of the spine and pelvis are intact, though there is mild degenerative change noted at the L4-L5 facet joints.
+
+**Conclusion:**
+There is a 7 cm lymphocele adjacent to the left renal graft. No evidence of active bleeding or hematoma is identified.

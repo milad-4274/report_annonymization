@@ -1,0 +1,17 @@
+**CT CHEST WITH CONTRAST**
+
+**Indication:** 69-year-old female with suspicion of superior vena cava syndrome. Evaluate for SVC thrombosis versus external compression.
+
+**Technique:** Helical CT acquisition was performed from the thoracic inlet through the adrenal glands following the administration of intravenous contrast. Multiplanar reformats were reviewed.
+
+**Findings:**
+The lungs are clear without evidence of focal consolidation, pleural effusion, or pneumothorax. There is no suspicious pulmonary nodule identified in either lung field. The tracheobronchial tree is patent, although there is mild narrowing of the right mainstem bronchus due to adjacent mass effect.
+
+Within the mediastinum, there is a large, irregularly shaped, contrast-enhancing soft tissue mass centered in the right upper lobe and extending into the superior mediastinum. This mass measures approximately 7.2 x 5.4 cm. The lesion exerts significant extrinsic compression upon the superior vena cava, resulting in high-grade stenosis and near-complete occlusion of the vessel lumen. Despite the severe compression, there is no evidence of an intraluminal filling defect to suggest acute thrombus within the remaining SVC lumen. Collateral venous drainage is noted via the azygos vein and internal mammary veins.
+
+The heart size is within normal limits for the patient's age. The pericardium is thin and unremarkable. The descending aorta and its primary branches demonstrate normal caliber and course.
+
+Regarding incidental findings, there are scattered small, calcified granulomas in both lower lobes, likely sequelae of prior healed infection. Mild degenerative changes are noted in the thoracic spine with marginal osteophytes. A small, simple cyst is noted in the left adrenal gland, measuring 1.1 cm, which appears benign.
+
+**Conclusion:**
+Large mediastinal lung tumor causing severe extrinsic obstruction of the superior vena cava. No evidence of associated SVC thrombosis.

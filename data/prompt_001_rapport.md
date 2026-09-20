@@ -1,0 +1,15 @@
+**CT CHEST WITH CONTRAST**
+
+**Indication:** 32-year-old male presenting with chest pain. Evaluate for pulmonary embolism.
+
+**Technique:** Helical CT imaging of the chest was performed following the administration of intravenous contrast. Bolus tracking was utilized to ensure optimal opacification of the pulmonary arterial tree. Multiplanar reformats were reviewed.
+
+**Findings:**
+The lungs are clear. There is no evidence of focal consolidation, suspicious pulmonary nodules, or pleural effusions. The pleural spaces are narrow and free of fluid. No pneumothorax is identified.
+
+Regarding the vasculature, there is no evidence of pulmonary embolism within the main, lobar, segmental, or subsegmental pulmonary arteries. However, there is a focal, saccular dilation of a right lower lobe pulmonary artery branch measuring approximately 3 cm in maximal diameter, consistent with a pulmonary artery aneurysm. The remaining pulmonary arteries maintain a normal caliber. The thoracic aorta and the ascending aorta are normal in size without evidence of dissection or aneurysm. The heart size is within normal limits, and there is no pericardial effusion.
+
+The mediastinal and hilar lymph nodes are not enlarged. The esophagus is unremarkable. The visualized portions of the upper abdomen, including the liver and adrenal glands, appear normal. There is a small, benign-appearing pericardial fat pad noted, which is a common normal variant. A few tiny, non-specific calcified granulomas are seen in the left lower lobe, likely sequelae of prior healed infection. The bony structures of the thoracic cage and the visualized shoulder joints are intact without acute fracture.
+
+**Conclusion:**
+Single 3 cm pulmonary artery aneurysm in the right lower lobe. No evidence of rupture or associated hemorrhage.

@@ -1,0 +1,13 @@
+**INDICATION:** 79-year-old male presenting for yearly follow-up imaging. History of prolonged asbestos exposure. Evaluate for features of subsequent interstitial pneumonia.
+
+**TECHNIQUE:** Axial CT images were acquired through the chest without intravenous contrast. Multiplanar reformats were performed.
+
+**FINDINGS:**
+The lungs are clear of any acute focal consolidation or suspicious pulmonary nodules. There is no evidence of new ground-glass opacities or honeycombing to suggest an evolving interstitial pneumonia process. However, there is prominent nodular pleural thickening noted along the parietal pleura, most pronounced in the lower lobes bilaterally, which is consistent with the patient's history of asbestos exposure. No pleural effusion or pneumothorax is identified.
+
+The mediastinal and hilar contours are within normal limits for the patient's age. There is no significant lymphadenopathy. The heart size is at the upper limit of normal, and there is a small amount of pericardial fluid, likely physiologic. The thoracic aorta shows mild ectasia and atherosclerotic calcifications throughout its course.
+
+The visualized upper abdominal organs, including the liver and spleen, appear unremarkable. The bony structures demonstrate diffuse osteopenia and mild degenerative changes of the thoracic spine. The chest wall soft tissues are unremarkable.
+
+**CONCLUSION:**
+Appearance of nodular pleural thickening. No evidence of associated pleural effusion or malignant transformation.

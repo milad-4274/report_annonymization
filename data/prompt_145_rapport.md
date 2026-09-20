@@ -1,0 +1,17 @@
+**EXAMINATION:** MRI/MRCP Abdomen
+
+**INDICATION:** 55-year-old female with right upper quadrant pain and elevated liver enzymes. Prior ultrasound was inconclusive due to patient habitus. Evaluate for biliary obstruction.
+
+**TECHNIQUE:** Multiplanar, multisequence imaging of the abdomen was performed. Dedicated MRCP sequences were obtained using heavy T2-weighted imaging. Breath-hold sequences were utilized where possible, though some motion artifact is noted.
+
+**FINDINGS:**
+The liver demonstrates normal morphology and signal intensity. There are no focal hepatic masses or suspicious lesions identified. A small, simple cyst is noted in segment IV, measuring approximately 8 mm, which is an incidental finding. The portal vein and hepatic veins are patent with normal flow voids.
+
+The gallbladder is moderately distended with thickened walls. There are several small gallstones present within the gallbladder lumen. The intrahepatic bile ducts are mildly dilated throughout both lobes. The common hepatic duct is also mildly prominent. At the distal aspect of the common bile duct, there is a well-defined, rounded filling defect measuring approximately 9 mm, consistent with an obstructing gallstone. This results in upstream dilatation of the common bile duct, which measures 11 mm at its widest point.
+
+The pancreas is normal in size and contour without evidence of mass, inflammation, or ductal dilatation. The splenic vein and artery are unremarkable. The spleen is normal in size.
+
+The adrenal glands are bilateral and appear normal. The kidneys show no hydronephrosis or large cortical masses. There is a small amount of free fluid noted in the pelvis, which is non-specific. The visualized bowel loops are non-dilated and demonstrate normal wall thickness. No significant lymphadenopathy is seen in the retroperitoneum.
+
+**CONCLUSION:**
+Obstructing gallstone located in the lower common bile duct with associated mild intra- and extrahepatic biliary dilatation. No evidence of cholecystitis or abscess formation.

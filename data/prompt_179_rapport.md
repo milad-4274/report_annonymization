@@ -1,0 +1,15 @@
+**INDICATION:** 45-year-old female presenting with fever and localized back pain. Evaluate for spondylodiscitis.
+
+**TECHNIQUE:** Multiplanar, multisequence magnetic resonance imaging of the thoracic spine was performed. Sagittal T1, T2, and STIR sequences were obtained, along with axial T2 and T1 weighted images.
+
+**FINDINGS:**
+The alignment of the thoracic vertebral bodies is maintained throughout the imaged range. There is no evidence of vertebral body collapse, retrolisthesis, or anterolisthesis. The visualized intervertebral discs demonstrate normal height and signal intensity; specifically, there is no evidence of endplate marrow edema or disc space narrowing to suggest active spondylodiscitis at any level.
+
+Regarding the posterior elements, there is a focal area of abnormal fluid signal and mild synovial thickening involving the D7-D8 facet joint articulation. This articular effusion is associated with surrounding soft tissue edema on the STIR sequences, with features highly suggestive of an infectious process. The remaining facet joints from T1 through T12 appear unremarkable without significant hypertrophy.
+
+The spinal canal is widely patent. There is no evidence of central stenosis or significant neural foraminal narrowing. The spinal cord demonstrates normal morphology and internal signal intensity, with no intrinsic lesions or syrinx identified. The conus medullaris terminates at a normal level.
+
+Incidental findings include mild degenerative changes at the T11-T12 level characterized by a small marginal osteophyte. There is also a small, asymptomatic right-sided thoracic paravertebral lymph node measuring 6mm, which appears benign in morphology. The visualized portions of the lungs and pleural spaces are clear.
+
+**CONCLUSION:**
+Articular effusion of the D7-D8 facet joint with inflammatory characteristics suggesting an infectious origin. There is no evidence of associated spondylodiscitis or epidural abscess.

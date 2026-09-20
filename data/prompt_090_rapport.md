@@ -1,0 +1,19 @@
+**CT ABDOMEN AND PELVIS WITH IV CONTRAST**
+
+**Indication:** 43-year-old female presenting with fever and right upper quadrant pain four days status post cholecystectomy. Evaluate for postoperative complication.
+
+**Technique:** Axial CT images were acquired from the diaphragm to the pubic symphysis following the administration of intravenous contrast. Multiplanar reformats were performed.
+
+**Findings:**
+The liver demonstrates normal size and attenuation without focal mass or intrahepatic biliary ductal dilatation. There is a well-defined, peripherally enhancing fluid collection located within the gallbladder fossa measuring approximately 4.2 x 3.1 x 2.8 cm. This collection exhibits internal debris and mild wall thickening, consistent with an infected biloma. No evidence of active extravasation of contrast is noted. The portal vein and hepatic veins are patent.
+
+The gallbladder is surgically absent. The common bile duct is within normal limits for diameter. The pancreas is unremarkable in morphology and enhancement. The spleen and adrenal glands are normal in appearance.
+
+Within the abdomen, there is a small amount of free fluid in the pelvis, which is likely physiologic given the patient's sex. A few small, non-obstructing renal cortical cysts are noted in the left kidney. The right kidney is normal. There is no hydronephrosis.
+
+The stomach and small bowel loops are non-dilated. The colon is normal in caliber without wall thickening or diverticulitis. The urinary bladder is unremarkable. The visualized pelvic organs are within normal limits for age.
+
+No pneumoperitoneum is identified. There is no significant lymphadenopathy. The visualized lung bases are clear. The bony structures are intact without acute fracture.
+
+**Conclusion:**
+Post-cholecystectomy infected biloma within the gallbladder fossa. No evidence of abscess formation or active biliary leak.
