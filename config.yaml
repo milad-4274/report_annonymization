@@ -1,0 +1,11 @@
+data:
+    path: "data"
+    extensions: 
+        - "md"
+    output_dir: "result"
+    excel: "RapRI_prompt_design.xlsx"
+
+llm:
+    base_url: "http://localhost:11434/v1"
+    model_name: "qwen2.5-coder:1.5b"
+    temperature: 0.0
