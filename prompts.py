@@ -12,26 +12,3 @@ Anonymize this report:
 
 $report_text
 """
-
-ENTITY_EXTRACTION_SYSTEM_PROMPT = """
-You are a clinical entity extractor. Extract key information from the radiology report into the required JSON format.
-
-Rules:
-- Output valid JSON only.
-- Do not add explanations or conversational text.
-"""
-
-ENTITY_EXTRACITON_USER_PROMPT = """
-Extract clinical entities from this report into JSON format:
-
-Report:
-$anonymized_report_text
-
-JSON Schema:
-{
-  "modality": "string",
-  "primary_diagnoses": ["string"],
-  "incidental_findings": ["string"]
-}
-"""
-

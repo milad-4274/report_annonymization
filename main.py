@@ -1,72 +1,74 @@
 import json
-import yaml
 from pathlib import Path
-from tqdm import tqdm
 from string import Template
-from utils import parse_radiology_report
+import yaml
+from tqdm import tqdm
+
 from llm_caller import LLMCaller
-from prompts import ANNONYMIATION_SYSTEM_PROMPT, ANNONYMIATION_USER_PROMPT, ENTITY_EXTRACTION_SYSTEM_PROMPT, ENTITY_EXTRACITON_USER_PROMPT
+from prompts import ANNONYMIATION_SYSTEM_PROMPT, ANNONYMIATION_USER_PROMPT
+from utils import parse_radiology_report
 
-
+# Load configuration parameters
 with open("config.yaml") as f:
     try:
         CONFIG = yaml.safe_load(f)
-    except:
-        raise ValueError("config.yaml file could not found")
-    
+    except Exception as e:
+        raise ValueError("config.yaml file could not be found or parsed") from e
+
 
 def main():
-    # FIND DATA
+    # Setup input and output directory paths
     data_path = Path(CONFIG["data"]["path"])
     output_dir = Path(CONFIG["data"]["output_dir"])
-    if not output_dir.exists():
-        output_dir.mkdir()
-        
-    # Convert prompt strings to string.Template objects
-    anon_user_template = Template(ANNONYMIATION_USER_PROMPT)
-    # entity_user_template = Template(ENTITY_EXTRACITON_USER_PROMPT)
-    
+    output_dir.mkdir(parents=True, exist_ok=True)
+
     if not data_path.exists():
-        raise ValueError(f"Data folder cannot be found {data_path}")
-    
-    total_files = len([p for p in data_path.iterdir() if p.is_file() and p.suffix[1:] in CONFIG["data"]["extensions"]])
-    
-    # ITERATE OVER DATA
-    for file in tqdm(data_path.iterdir(), total=total_files):
-        if not file.suffix[1:] in CONFIG["data"]["extensions"]:
-            continue
-    
-        # LOAD FILE
+        raise ValueError(f"Data folder cannot be found: {data_path}")
+
+    # Prepare user prompt template and target extensions set
+    anon_user_template = Template(ANNONYMIATION_USER_PROMPT)
+    valid_extensions = set(CONFIG["data"]["extensions"])
+
+    # Count matching target files for progress tracking
+    matching_files = [
+        p for p in data_path.iterdir() if p.is_file() and p.suffix.lstrip(".") in valid_extensions
+    ]
+
+    # Initialize LLM client connection using config settings
+    llm = LLMCaller(
+        base_url=CONFIG["llm"]["base_url"],
+        model_name=CONFIG["llm"]["model_name"],
+        temperature=CONFIG["llm"]["temperature"],
+    )
+
+    # Process each report file
+    for file in tqdm(matching_files, total=len(matching_files)):
+        # Read raw report content
         with open(file, "r", encoding="utf-8") as f:
             content = f.read()
-        
-        # PARSE FILE 
+
+        # Parse text report into structured section keys
         before_json = parse_radiology_report(content)
-        llm = LLMCaller(
-            base_url= CONFIG["llm"]["base_url"],
-            model_name= CONFIG["llm"]["model_name"],
-            temperature= CONFIG["llm"]["temperature"],
+
+        # De-identify the indication section using LLM
+        prompt_text = anon_user_template.substitute(
+            report_text=before_json.get("indication", "")
         )
-        deidentified_content = llm.generate(prompt= anon_user_template.substitute(report_text=before_json["indication"]), system_prompt=ANNONYMIATION_SYSTEM_PROMPT)
-        # result = llm.generate_json(prompt=entity_user_template.substitute(anonymized_report_text=deidentified_content), system_prompt=ENTITY_EXTRACTION_SYSTEM_PROMPT)
-        
+        deidentified_content = llm.generate(
+            prompt=prompt_text, system_prompt=ANNONYMIATION_SYSTEM_PROMPT
+        )
+
+        # Create updated JSON structure with de-identified content
         new_json = before_json.copy()
         new_json["indication"] = deidentified_content
-        
-        
-        with open(output_dir / (file.stem + ".json") , "w") as f:
-            json.dump(before_json, f)
-        
-        with open(output_dir / (file.stem + "_annonymized.json") , "w") as f:
-            json.dump(new_json, f)
-        
-        # break
 
-        
-    
-    # LLM CALL 
-    
-    # RETURN JSON
+        # Save both original parsed JSON and anonymized JSON outputs
+        with open(output_dir / f"{file.stem}.json", "w", encoding="utf-8") as f:
+            json.dump(before_json, f, indent=2)
+
+        with open(output_dir / f"{file.stem}_annonymized.json", "w", encoding="utf-8") as f:
+            json.dump(new_json, f, indent=2)
+
 
 if __name__ == "__main__":
     main()
