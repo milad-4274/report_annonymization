@@ -89,28 +89,3 @@ class LLMCaller:
             clean_output = raw_output.replace("```json", "").replace("```", "").strip()
             return json.loads(clean_output)
 
-
-# Example Usage
-if __name__ == "__main__":
-    # 1. Initialize for local Ollama/vLLM
-    llm = LLMCaller(
-        base_url="http://localhost:11434/v1",  # Change to "http://localhost:8000/v1" for vLLM
-        model_name="qwen2.5-coder:1.5b",
-        temperature=0.0,
-    )
-
-    # Standard Text Request
-    text_prompt = "Summarize the primary purpose of an anonymization pipeline in one sentence."
-    print("--- Standard Completion ---")
-    print(llm.generate(text_prompt))
-
-    # Structured JSON Output Request
-    system_instruction = (
-        "You are an NLP extraction assistant. Extract entities and respond strictly in valid JSON format."
-    )
-    user_report = "Patient: Anna Müller, DOB: 12.04.2015. Diagnosis: Mild pneumonia."
-    json_prompt = f"Extract 'patient_name', 'dob', and 'diagnosis' from this text: {user_report}"
-
-    print("\n--- JSON Extraction ---")
-    result = llm.generate_json(prompt=json_prompt, system_prompt=system_instruction)
-    print(json.dumps(result, indent=2))
